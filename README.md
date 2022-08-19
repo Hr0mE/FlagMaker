@@ -1,3 +1,3 @@
 # FlagMaker
-Program, that creating a time markers after pressing 'INSERT' button.
+Program, that creating a time markers in notepad after pressing 'INSERT' button.
 Start the script with stream. 
