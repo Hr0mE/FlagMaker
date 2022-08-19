@@ -1,2 +1,3 @@
 # FlagMaker
-Program, that creating a time markers after press 'INSERT' button
+Program, that creating a time markers after pressing 'INSERT' button.
+Start the script with stream. 
